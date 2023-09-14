@@ -3,7 +3,7 @@ from __future__ import print_function
 __author__ = 'Thomas Rueckstiess, ruecksti@in.tum.de'
 
 import sys, time
-from scipy import random, asarray
+from numpy import random, asarray
 import xode.parser, xode.body, xode.geom #@UnresolvedImport @UnusedImport @Reimport
 import ode #@UnresolvedImport
 

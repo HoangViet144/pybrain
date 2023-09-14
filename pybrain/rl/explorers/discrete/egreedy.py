@@ -1,6 +1,6 @@
 __author__ = "Thomas Rueckstiess, ruecksti@in.tum.de"
 
-from scipy import random, array
+from numpy import random, array
 
 from pybrain.rl.explorers.discrete.discrete import DiscreteExplorer
 

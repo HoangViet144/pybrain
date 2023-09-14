@@ -2,7 +2,7 @@
     >>> from pybrain.tools.shortcuts     import buildNetwork
     >>> from pybrain.supervised.trainers import BackpropTrainer, RPropMinusTrainer
     >>> from pybrain.datasets import SupervisedDataSet, ImportanceDataSet
-    >>> from scipy import random, array
+    >>> from numpy import random, array
 
 Initialize random number generator
 

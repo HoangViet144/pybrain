@@ -9,7 +9,7 @@ from random import shuffle
 
 from pylab import show, plot, clf
 from pybrain.supervised.knn.lsh.nearoptimal import MultiDimHash
-from scipy import random, array, dot, zeros
+from numpy import random, array, dot, zeros
 from scipy.linalg import orth
 
 

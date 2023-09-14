@@ -3,7 +3,7 @@ from __future__ import print_function
 __author__ = 'Frank Sehnke, sehnke@in.tum.de'
 
 
-from scipy import random, zeros, ones, exp, sqrt, cos, log
+from numpy import random, zeros, ones, exp, sqrt, cos, log
 
 stND = zeros(1000)
 for i in range(1000):

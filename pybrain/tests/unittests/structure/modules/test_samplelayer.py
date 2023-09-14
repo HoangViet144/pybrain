@@ -1,7 +1,7 @@
 """
 
     >>> from pybrain.structure.modules.samplelayer import BernoulliLayer
-    >>> from scipy import random, array, empty
+    >>> from numpy import random, array, empty
 
 Set the random seed so we can predict the random variables.
 
